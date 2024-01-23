@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+WacomTablet_6.4.5-2.exe filter=lfs diff=lfs merge=lfs -text
